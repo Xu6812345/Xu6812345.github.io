@@ -1,5 +1,5 @@
 ---
-permalink: "徐振宇个人学术主页"
+permalink:/
 title: "_page title but can not use chinese"
 excerpt: "About me"
 author_profile: true
