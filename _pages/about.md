@@ -1,5 +1,5 @@
 ---
-permalink:/
+permalink: / 
 title: "_page title but can not use chinese"
 excerpt: "About me"
 author_profile: true
