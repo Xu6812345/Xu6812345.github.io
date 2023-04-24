@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "这里是标题"
+title: "_page title but can not use chinese"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
